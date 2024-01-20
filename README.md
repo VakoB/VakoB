@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [VakoB](https://github.com/VakoB)
 
-- 📫 How to reach me: https://www.linkedin.com/in/vako-butkhuzi-b09a74275/
+- 📫 How to reach me: [VakoButkhuzi](https://www.linkedin.com/in/vako-butkhuzi-b09a74275)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
