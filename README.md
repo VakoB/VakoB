@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VakoB" alt="VakoB" /></a> </p>
 
-- 🌱 I’m currently learning in Bitcamp **https://www.bitcamp.ge/**
+- 🌱 I’m currently learning in BTU (Business and Technology University **https://btu.edu.ge/**
 
 - 👨‍💻 All of my projects are available at [VakoB](https://github.com/VakoB)
 
