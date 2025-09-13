@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vako Butkhuzi</h1>
-<h3 align="center">Beginner Developer</h3>
+<h3 align="center">Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VakoBli&label=Profile%20views&color=3f5427&style=plastic" alt="vako" /> </p>
 
