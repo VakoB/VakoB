@@ -43,6 +43,4 @@
   <video src="https://youtu.be/mqCLaWupsTU" controls></video>
 </p>
 
-<p align="center">   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VakoB" alt="Vako Butkhuzi's GitHub Contribution"/>
-</p>
+
